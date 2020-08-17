@@ -1,0 +1,6 @@
+1,update starter code,high
+2,write about the how I did it,high
+3,upload to new GitHub repository,high
+4,create repository web page,high
+5,submit to Canvas,high
+6,do a peer review,low
